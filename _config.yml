@@ -1,0 +1,28 @@
+name: Notable Doodads
+favicon: null
+layout_spectrum: 0.7388222524896264
+typography_spectrum: 0.9526889086700976
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.06863426510244608
+  lightness: 0.7337201365735382
+  saturation: 0.9701484295073897
+  rhythmicContrast: 0.7999053075909615
+purpose: []
