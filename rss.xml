@@ -4,7 +4,7 @@
         <description><![CDATA[Cool, useful stuff.]]></description>
         <link>http://notabledoodads.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jul 2016 03:10:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2016 03:14:43 GMT</lastBuildDate>
         <atom:link href="http://notabledoodads.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>http://notabledoodads.com/3b6348b5-3965-469d-8c34-d9d94e1e874a/index.html</link>
             <guid isPermaLink="false">3b6348b5-3965-469d-8c34-d9d94e1e874a</guid>
             <pubDate>Thu, 28 Jul 2016 03:10:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe3ed173-0156-4013-ab1e-ad5bb1c01ccb.png">]]></description>
-            <link>http://notabledoodads.com/5f615f78-e193-40b7-b1c7-f3d546e244de/index.html</link>
-            <guid isPermaLink="false">5f615f78-e193-40b7-b1c7-f3d546e244de</guid>
-            <pubDate>Thu, 28 Jul 2016 02:51:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
