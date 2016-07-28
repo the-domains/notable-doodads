@@ -28,6 +28,9 @@ navigation:
   - name: Purpose
     id: bdecc962-7e25-4652-816b-97b20e15aa60
     type: content
+  - name: GC
+    url: 'http://guitarcreativity.musicteachershelper.com/'
+    type: external
 favicon: null
 title: 'Cool, useful stuff.'
 description: don't doo ordinary
