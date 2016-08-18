@@ -1,28 +1,4 @@
-name: Notable Doodads
-favicon: null
-layout_spectrum: 0.7388222524896264
 typography_spectrum: 0.9526889086700976
-navigation:
-  - name: Purpose
-    id: bdecc962-7e25-4652-816b-97b20e15aa60
-    type: content
-  - name: GC
-    url: 'http://guitarcreativity.musicteachershelper.com/'
-    type: external
-title: Notable Doodads
-description: don't doo ordinary
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#44d9e5'
@@ -34,4 +10,31 @@ color:
   lightness: 0.7337201365735382
   saturation: 0.75
   rhythmicContrast: 0.25
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.7388222524896264
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Notable Doodads
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Purpose
+    id: bdecc962-7e25-4652-816b-97b20e15aa60
+    type: content
+  - name: GC
+    url: 'http://guitarcreativity.musicteachershelper.com/'
+    type: external
+  - name: piano stamp
+    id: 507a755e-1588-4df8-97e6-9ff0f87f9ac9
+    type: content
+favicon: null
+title: Notable Doodads
+description: don't doo ordinary
 purpose: []
