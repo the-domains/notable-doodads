@@ -31,9 +31,6 @@ navigation:
   - name: GC
     url: 'http://guitarcreativity.musicteachershelper.com/'
     type: external
-  - name: piano stamp
-    id: 507a755e-1588-4df8-97e6-9ff0f87f9ac9
-    type: content
 favicon: null
 title: Notable Doodads
 description: don't doo ordinary
