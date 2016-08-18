@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-18T02:21:32.073Z'
+datePublished: '2016-08-18T02:22:07.331Z'
 sourcePath: >-
   _posts/2016-08-18-occasionally-we-come-across-an-idea-or-device-that-makes-us.md
 inFeed: false
@@ -8,7 +8,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-18T02:21:31.213Z'
+dateModified: '2016-08-18T02:22:06.629Z'
 title: ''
 publisher: {}
 description: >-
