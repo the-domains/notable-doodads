@@ -28,7 +28,7 @@ navigation:
   - name: GC
     url: 'http://guitarcreativity.musicteachershelper.com/'
     type: external
-  - name: why
+  - name: home
     id: 4d6007a3-57e9-4a49-a119-b749c81269ef
     type: content
 favicon: null
