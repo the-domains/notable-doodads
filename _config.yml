@@ -31,6 +31,9 @@ navigation:
   - name: home
     id: 4d6007a3-57e9-4a49-a119-b749c81269ef
     type: content
+  - name: why
+    id: 0f5740da-4550-49ad-836c-35f1ce06804d
+    type: content
 favicon: null
 title: Notable Doodads
 description: don't doo ordinary
